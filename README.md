@@ -10,6 +10,9 @@
 
 --> The total score is reset to zero either by pressing the reset button or by reloading the page.
 
+## Website Link
+http://rps.infinityfreeapp.com/
+
 ## UI Snapshots
 ## Snapshot1
 ![image](snapshots/Snapshot1.png)
